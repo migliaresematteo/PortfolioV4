@@ -57,6 +57,7 @@ html body #bubbles {
   top: 0;
   width: 98vw;
   height: 100%;
+  margin-inline: auto;
 }
 html body .bubble {
   border-radius: 50%;
