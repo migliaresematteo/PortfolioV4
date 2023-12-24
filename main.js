@@ -35,5 +35,5 @@ setInterval(() => {
     Math.floor(Math.random() * colors.length);
   bubble.style.background = colors[randomColorIndex];
 
-  bubble.style.opacity = `${between(20, 100)}%`;
+  bubble.style.opacity = `${between(20, 30)}%`;
 }, 100);
