@@ -55,7 +55,7 @@ html body #bubbles {
   position: absolute;
   z-index: -1;
   top: 0;
-  width: 100%;
+  width: 98vw;
   height: 100%;
 }
 html body .bubble {
